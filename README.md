@@ -1,0 +1,1 @@
+To run it in IDE Python 3.x, Kivy 2.2.0, KivyMD 2.0.1 and Pandas. Alternatively, you have packaged app for windows.
